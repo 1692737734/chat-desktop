@@ -1,0 +1,24 @@
+.login-header{
+    width: 300px;
+    height: 50px;
+    background-color: #1DA57A;
+    border-radius: 5px 5px 0px 0px;
+    position: relative;
+}
+.login-header-drag{
+    width: 220px;
+    height: 50px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    -webkit-app-region: drag;
+    cursor: pointer;
+}
+.login-content{
+    width: 300px;
+    height: 350px;
+}
+.login-content-tab{
+    width: 225px;
+    margin: 10px auto;
+}

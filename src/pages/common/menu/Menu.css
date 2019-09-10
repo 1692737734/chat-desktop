@@ -1,0 +1,29 @@
+.menu-all{
+    width: 100%;
+    height: 100%;
+    background-color: #1DA57A;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.menu-part{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 66px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.pop_all{
+    width: 200px;
+    height: 300px;
+    line-height: 30px;
+    color: #000;
+}
+.menu-nickname{
+    line-height: 30px;
+    font-size: 18px;
+    color: #000;
+}
+.menu-sex{
+    font-size: 14px;
+}

@@ -1,0 +1,16 @@
+.login-password-content-all{
+    width: 225px;
+    margin: 10px auto;
+    line-height: 25px;
+}
+.login-password-content-remember{
+    width: 100px;
+    float: left;
+}
+
+.login-password-content-other{
+    width: 120px;
+    float: right;
+    text-align: right;
+    font-size: 12px;
+}
