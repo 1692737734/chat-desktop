@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "electron": "^6.0.6",
+    "electron": "^15.5.5",
     "react-router-dom": "^5.0.1"
   }
 }
